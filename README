@@ -1,0 +1,6 @@
+Computing standard deviation and average with pseudo combiner.
+
+Warnings :
+* it uses Cascading 1.2 (2.0 has been released now)
+* the accuracy of the implemented solution is 'not safe'
+=> see http://groups.google.com/group/cascading-user/browse_thread/thread/9bc3d264f114881a
